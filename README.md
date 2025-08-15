@@ -17,7 +17,7 @@ This project is designed to work on **Windows** and demonstrates how to handle *
 ## Prerequisites
 - **Compiler**: MinGW-w64 or MSVC (Microsoft Visual C++)
 - **CMake** (Optional, if you want a build system)
-- **Linx OS**
+- **Linux OS**
 
 ---
 
