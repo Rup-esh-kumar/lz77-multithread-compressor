@@ -29,3 +29,19 @@ This project is designed to work on **Windows** and demonstrates how to handle *
 3. Compile:
    ```bash
    g++ -std=c++17 -pthread -o compressor.exe main.cpp lz77.cpp
+```
+
+----
+### Compression (Syntax)
+```bash
+compressor.exe <mode> <input_file> <output_file>
+```
+----
+
+### Decompression (Syntax)
+
+```bash
+compressor.exe d test.mtc test_restored.cpp
+```
+
+----
